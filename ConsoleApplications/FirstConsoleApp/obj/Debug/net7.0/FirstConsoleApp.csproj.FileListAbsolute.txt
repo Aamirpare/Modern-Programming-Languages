@@ -1,0 +1,14 @@
+C:\BIFall2023\ConsoleApplications\FirstConsoleApp\bin\Debug\net7.0\FirstConsoleApp.exe
+C:\BIFall2023\ConsoleApplications\FirstConsoleApp\bin\Debug\net7.0\FirstConsoleApp.deps.json
+C:\BIFall2023\ConsoleApplications\FirstConsoleApp\bin\Debug\net7.0\FirstConsoleApp.runtimeconfig.json
+C:\BIFall2023\ConsoleApplications\FirstConsoleApp\bin\Debug\net7.0\FirstConsoleApp.dll
+C:\BIFall2023\ConsoleApplications\FirstConsoleApp\bin\Debug\net7.0\FirstConsoleApp.pdb
+C:\BIFall2023\ConsoleApplications\FirstConsoleApp\obj\Debug\net7.0\FirstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\BIFall2023\ConsoleApplications\FirstConsoleApp\obj\Debug\net7.0\FirstConsoleApp.AssemblyInfoInputs.cache
+C:\BIFall2023\ConsoleApplications\FirstConsoleApp\obj\Debug\net7.0\FirstConsoleApp.AssemblyInfo.cs
+C:\BIFall2023\ConsoleApplications\FirstConsoleApp\obj\Debug\net7.0\FirstConsoleApp.csproj.CoreCompileInputs.cache
+C:\BIFall2023\ConsoleApplications\FirstConsoleApp\obj\Debug\net7.0\FirstConsoleApp.dll
+C:\BIFall2023\ConsoleApplications\FirstConsoleApp\obj\Debug\net7.0\refint\FirstConsoleApp.dll
+C:\BIFall2023\ConsoleApplications\FirstConsoleApp\obj\Debug\net7.0\FirstConsoleApp.pdb
+C:\BIFall2023\ConsoleApplications\FirstConsoleApp\obj\Debug\net7.0\FirstConsoleApp.genruntimeconfig.cache
+C:\BIFall2023\ConsoleApplications\FirstConsoleApp\obj\Debug\net7.0\ref\FirstConsoleApp.dll

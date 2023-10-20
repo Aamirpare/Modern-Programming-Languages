@@ -1,0 +1,7 @@
+C:\BIFall2023\CSharpArraysDemo\bin\Debug\CSharpArraysDemo.exe.config
+C:\BIFall2023\CSharpArraysDemo\bin\Debug\CSharpArraysDemo.exe
+C:\BIFall2023\CSharpArraysDemo\bin\Debug\CSharpArraysDemo.pdb
+C:\BIFall2023\CSharpArraysDemo\obj\Debug\CSharpArraysDemo.csproj.AssemblyReference.cache
+C:\BIFall2023\CSharpArraysDemo\obj\Debug\CSharpArraysDemo.csproj.CoreCompileInputs.cache
+C:\BIFall2023\CSharpArraysDemo\obj\Debug\CSharpArraysDemo.exe
+C:\BIFall2023\CSharpArraysDemo\obj\Debug\CSharpArraysDemo.pdb

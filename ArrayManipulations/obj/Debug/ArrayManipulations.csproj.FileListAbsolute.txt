@@ -1,0 +1,14 @@
+C:\BIFall2023\ArrayManipulations\bin\Debug\ArrayManipulations.exe.config
+C:\BIFall2023\ArrayManipulations\bin\Debug\ArrayManipulations.exe
+C:\BIFall2023\ArrayManipulations\bin\Debug\ArrayManipulations.pdb
+C:\BIFall2023\ArrayManipulations\obj\Debug\ArrayManipulations.csproj.AssemblyReference.cache
+C:\BIFall2023\ArrayManipulations\obj\Debug\ArrayManipulations.csproj.CoreCompileInputs.cache
+C:\BIFall2023\ArrayManipulations\obj\Debug\ArrayManipulations.exe
+C:\BIFall2023\ArrayManipulations\obj\Debug\ArrayManipulations.pdb
+C:\Users\Aamir\source\repos\ModerProgrammingLanguagesFall2023\ArrayManipulations\bin\Debug\ArrayManipulations.exe.config
+C:\Users\Aamir\source\repos\ModerProgrammingLanguagesFall2023\ArrayManipulations\bin\Debug\ArrayManipulations.exe
+C:\Users\Aamir\source\repos\ModerProgrammingLanguagesFall2023\ArrayManipulations\bin\Debug\ArrayManipulations.pdb
+C:\Users\Aamir\source\repos\ModerProgrammingLanguagesFall2023\ArrayManipulations\obj\Debug\ArrayManipulations.csproj.AssemblyReference.cache
+C:\Users\Aamir\source\repos\ModerProgrammingLanguagesFall2023\ArrayManipulations\obj\Debug\ArrayManipulations.csproj.CoreCompileInputs.cache
+C:\Users\Aamir\source\repos\ModerProgrammingLanguagesFall2023\ArrayManipulations\obj\Debug\ArrayManipulations.exe
+C:\Users\Aamir\source\repos\ModerProgrammingLanguagesFall2023\ArrayManipulations\obj\Debug\ArrayManipulations.pdb

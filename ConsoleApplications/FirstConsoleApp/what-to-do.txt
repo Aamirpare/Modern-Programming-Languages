@@ -1,0 +1,2 @@
+1. How to create projects in VS2022
+2. How to create a solution file and add projects to it

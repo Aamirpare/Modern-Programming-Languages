@@ -1,0 +1,18 @@
+1. Assigment 1, 2
+Create an Ecommerce application that can have follwoing features.
+Inventory Module	
+	1. Add Product
+	2. Modify Product
+	3. Delete Product
+	4. View All Products
+Shopping Cart Module
+	1. Add Product to Shopping Cart 
+	2. Remove Product from Shopping Cart
+	3. View Shopping Cart
+Order Module
+	1. Display Order Details
+	2. Save Order in a Text File
+
+Develop the requirements listed above using a C# console application. 
+Your code must be follow the OOP design principles including Encapsulation, Inheritance 
+and Polymorphism.

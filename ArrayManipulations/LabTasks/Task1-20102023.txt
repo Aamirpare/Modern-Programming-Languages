@@ -1,0 +1,13 @@
+Implementing Events
+===================
+
+Introduction:
+Implement events in your shopping cart application. In the previsous lecture 
+we have studied events in C#, also have learn implementing events through demonstrations.
+
+Required:
+1. Create an event for adding a product to the shopping cart. When a product is added to
+   the cart, OnAddedItem event must be raised.
+2. Similarly for the delete operation, OnDeletedItem event must be raised.
+3. Its also required that OnUpdated event must be raised when a existing product is modified.
+4. Use the shopping card to register events defined above.

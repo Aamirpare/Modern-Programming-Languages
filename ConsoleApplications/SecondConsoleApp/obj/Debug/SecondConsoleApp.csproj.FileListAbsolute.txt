@@ -1,0 +1,7 @@
+C:\BIFall2023\ConsoleApplications\SecondConsoleApp\bin\Debug\SecondConsoleApp.exe.config
+C:\BIFall2023\ConsoleApplications\SecondConsoleApp\bin\Debug\SecondConsoleApp.exe
+C:\BIFall2023\ConsoleApplications\SecondConsoleApp\bin\Debug\SecondConsoleApp.pdb
+C:\BIFall2023\ConsoleApplications\SecondConsoleApp\obj\Debug\SecondConsoleApp.csproj.AssemblyReference.cache
+C:\BIFall2023\ConsoleApplications\SecondConsoleApp\obj\Debug\SecondConsoleApp.csproj.CoreCompileInputs.cache
+C:\BIFall2023\ConsoleApplications\SecondConsoleApp\obj\Debug\SecondConsoleApp.exe
+C:\BIFall2023\ConsoleApplications\SecondConsoleApp\obj\Debug\SecondConsoleApp.pdb
