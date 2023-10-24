@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.ComponentModel.Design;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace ArrayManipulations.Events.VideoApp
 {
-
     public class VideoEventArgs : EventArgs
     {
         public string Message { get; set; }
@@ -24,12 +24,13 @@ namespace ArrayManipulations.Events.VideoApp
     {
         //public delegate void VideoEncodeHandler(string args);
         //public event VideoEncodeHandler OnVideoEncoded;
-        //public EventHandler OnVideoEncoded;
-        public EventHandler<VideoEventArgs> OnVideoEncoded;
+        public EventHandler OnVideoEncoded;
+        //public EventHandler<VideoEventArgs> OnVideoEncoded;
         public string Title { get; set; } = "Fast Video Encoder";
         public virtual void Encode(Video video)
         {
-            //Thread.Sleep(5000);
+            Console.WriteLine("Encoding...");
+            Thread.Sleep(4000);
             //if(OnVideoEncoded != null)
             var args = new VideoEventArgs()
             {
@@ -55,14 +56,17 @@ namespace ArrayManipulations.Events.VideoApp
 
             Console.ReadKey();
         }
-        private static void OnVideoEncoded(object sender, VideoEventArgs args)
+        private static void OnVideoEncoded(object sender, EventArgs args)
         {
             var encoder = sender as VideoEncoder;
             
             Console.WriteLine(encoder.Title);
 
-            Console.WriteLine(args.Message);
-            Console.WriteLine(args.VideoLength);
+            var e = args as VideoEventArgs;
+
+            Console.WriteLine(e.Message);
+
+            Console.WriteLine(e.VideoLength);
         }
     }
 }

@@ -1,0 +1,11 @@
+C:\Users\Aamir\source\repos\ModerProgrammingLanguagesFall2023\WindowsFormsShoppingApp\bin\Debug\WindowsFormsShoppingApp.exe.config
+C:\Users\Aamir\source\repos\ModerProgrammingLanguagesFall2023\WindowsFormsShoppingApp\bin\Debug\WindowsFormsShoppingApp.exe
+C:\Users\Aamir\source\repos\ModerProgrammingLanguagesFall2023\WindowsFormsShoppingApp\bin\Debug\WindowsFormsShoppingApp.pdb
+C:\Users\Aamir\source\repos\ModerProgrammingLanguagesFall2023\WindowsFormsShoppingApp\obj\Debug\WindowsFormsShoppingApp.csproj.AssemblyReference.cache
+C:\Users\Aamir\source\repos\ModerProgrammingLanguagesFall2023\WindowsFormsShoppingApp\obj\Debug\WindowsFormsShoppingApp.Inventory.FormInventory.resources
+C:\Users\Aamir\source\repos\ModerProgrammingLanguagesFall2023\WindowsFormsShoppingApp\obj\Debug\WindowsFormsShoppingApp.MainForm.resources
+C:\Users\Aamir\source\repos\ModerProgrammingLanguagesFall2023\WindowsFormsShoppingApp\obj\Debug\WindowsFormsShoppingApp.Properties.Resources.resources
+C:\Users\Aamir\source\repos\ModerProgrammingLanguagesFall2023\WindowsFormsShoppingApp\obj\Debug\WindowsFormsShoppingApp.csproj.GenerateResource.cache
+C:\Users\Aamir\source\repos\ModerProgrammingLanguagesFall2023\WindowsFormsShoppingApp\obj\Debug\WindowsFormsShoppingApp.csproj.CoreCompileInputs.cache
+C:\Users\Aamir\source\repos\ModerProgrammingLanguagesFall2023\WindowsFormsShoppingApp\obj\Debug\WindowsFormsShoppingApp.exe
+C:\Users\Aamir\source\repos\ModerProgrammingLanguagesFall2023\WindowsFormsShoppingApp\obj\Debug\WindowsFormsShoppingApp.pdb

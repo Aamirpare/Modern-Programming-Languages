@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpArraysDemo", "CSharpA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayManipulations", "ArrayManipulations\ArrayManipulations.csproj", "{4079EED2-09AB-47E5-AE30-F6D9015760CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsShoppingApp", "WindowsFormsShoppingApp\WindowsFormsShoppingApp.csproj", "{35D2BC92-032A-44C8-8955-9C85ABDC5C6B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{4079EED2-09AB-47E5-AE30-F6D9015760CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4079EED2-09AB-47E5-AE30-F6D9015760CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4079EED2-09AB-47E5-AE30-F6D9015760CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35D2BC92-032A-44C8-8955-9C85ABDC5C6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35D2BC92-032A-44C8-8955-9C85ABDC5C6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35D2BC92-032A-44C8-8955-9C85ABDC5C6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35D2BC92-032A-44C8-8955-9C85ABDC5C6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
