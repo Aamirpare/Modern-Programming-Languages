@@ -50,7 +50,7 @@ namespace CSharpArraysDemo
             {
                 Console.WriteLine($"{ex.StackTrace}");
             }
-            x = 10;
+           
             k = 00;
             Console.ReadLine();
         }

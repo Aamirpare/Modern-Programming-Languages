@@ -6,23 +6,27 @@ using System.Threading.Tasks;
 
 namespace WindowsFormsShoppingApp.Data
 {
-    internal class ProductRepository
+    public class ProductRepository
     {
         List<Product> products = new List<Product>();
         public ProductRepository()
         {
-             products.AddRange(new List<Product>() 
-             { 
+            var listProducts = new List<Product>()
+             {
                 new Product{ Id=1, Name="Samsung Note 20", Price = 120000.0M },
                 new Product{ Id=2, Name="Infinix Note 13", Price = 960000.0M },
                 new Product{ Id=3, Name="Redme Note 12", Price = 72000.0M },
                 new Product{ Id=4, Name="Samsung Galaxy", Price = 90000.0M },
-             });
-        }
+             };
 
-        public List<Product> GetProducts() 
+             products.AddRange(listProducts);
+        }
+        public List<Product> GetProducts() => products;
+        public List<Product> CloneProducts()
         {
-            return products;
+            var cloned = new List<Product>();
+            cloned.AddRange(products);
+            return cloned;
         }
     }
 }

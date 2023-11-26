@@ -4,6 +4,7 @@ using System.Collections.Specialized;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using WindowsFormsShoppingApp;
 
 namespace SecondConsoleApp
 {
@@ -91,7 +92,12 @@ namespace SecondConsoleApp
 
         public static void Main(string[] args)
         {
-            DisplayDataType();
+            //DisplayDataType();
+            //MidtermExam midtermExam = new MidtermExam();
+            //midtermExam.MidtermQuestion1();
+
+            ArithmeticDemo amd = new ArithmeticDemo();
+            amd.Execute();
             Console.ReadKey();
         }
 

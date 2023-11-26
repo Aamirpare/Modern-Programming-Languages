@@ -1,0 +1,12 @@
+C:\Users\Aamir\source\repos\ModerProgrammingLanguagesFall2023\EntityFramworkDemo\bin\Debug\EntityFramworkDemo.exe.config
+C:\Users\Aamir\source\repos\ModerProgrammingLanguagesFall2023\EntityFramworkDemo\bin\Debug\EntityFramworkDemo.exe
+C:\Users\Aamir\source\repos\ModerProgrammingLanguagesFall2023\EntityFramworkDemo\bin\Debug\EntityFramworkDemo.pdb
+C:\Users\Aamir\source\repos\ModerProgrammingLanguagesFall2023\EntityFramworkDemo\bin\Debug\EntityFramework.dll
+C:\Users\Aamir\source\repos\ModerProgrammingLanguagesFall2023\EntityFramworkDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aamir\source\repos\ModerProgrammingLanguagesFall2023\EntityFramworkDemo\bin\Debug\EntityFramework.xml
+C:\Users\Aamir\source\repos\ModerProgrammingLanguagesFall2023\EntityFramworkDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aamir\source\repos\ModerProgrammingLanguagesFall2023\EntityFramworkDemo\obj\Debug\EntityFramworkDemo.csproj.AssemblyReference.cache
+C:\Users\Aamir\source\repos\ModerProgrammingLanguagesFall2023\EntityFramworkDemo\obj\Debug\EntityFramworkDemo.csproj.CoreCompileInputs.cache
+C:\Users\Aamir\source\repos\ModerProgrammingLanguagesFall2023\EntityFramworkDemo\obj\Debug\EntityFramworkDemo.csproj.CopyComplete
+C:\Users\Aamir\source\repos\ModerProgrammingLanguagesFall2023\EntityFramworkDemo\obj\Debug\EntityFramworkDemo.exe
+C:\Users\Aamir\source\repos\ModerProgrammingLanguagesFall2023\EntityFramworkDemo\obj\Debug\EntityFramworkDemo.pdb
