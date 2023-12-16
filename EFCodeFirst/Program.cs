@@ -6,12 +6,9 @@ using System.Linq;
 
 namespace EFCodeFirst
 {
-    public class SalesDbContext
+    public class DatabaseManager
     {
         public SalesContext DB { get; set; } = new SalesContext();
-    }
-    public class DatabaseManager : SalesDbContext
-    {
         public void Create()
         {
             if (!DB.Database.Exists())
@@ -28,7 +25,7 @@ namespace EFCodeFirst
             }
         }
     }
-    public class SalesCrudManager : SalesDbContext
+    public class SalesCrudManager : DatabaseManager
     {
         public void Insert(Student student)
         {
@@ -106,7 +103,7 @@ namespace EFCodeFirst
             //dbManager.Delete();
             //dbManager.Create();
             //dbManager.Insert(new Student { FullName = "Eman Mazari", Email = "eman.mazari@yahoo.com" });
-            //dbManager.InsertMany();
+            //dbManager.InsertInitialData();
             //dbManager.Update(2, new Student { FullName = "Rashida Bano", Email = "rashida.bano@yahoo.com" });
             //dbManager.ShowData();
 

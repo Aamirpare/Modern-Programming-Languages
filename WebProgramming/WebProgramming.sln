@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineStore", "OlineStore\OnlineStore.csproj", "{B026514B-EB80-40E8-BC1D-478D1EB98FB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECoomerceApp", "ECoomerceApp\ECoomerceApp.csproj", "{7A0A4A1E-0F13-465B-BFEC-ECF3B52D3C58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B026514B-EB80-40E8-BC1D-478D1EB98FB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B026514B-EB80-40E8-BC1D-478D1EB98FB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B026514B-EB80-40E8-BC1D-478D1EB98FB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B026514B-EB80-40E8-BC1D-478D1EB98FB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A0A4A1E-0F13-465B-BFEC-ECF3B52D3C58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A0A4A1E-0F13-465B-BFEC-ECF3B52D3C58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A0A4A1E-0F13-465B-BFEC-ECF3B52D3C58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A0A4A1E-0F13-465B-BFEC-ECF3B52D3C58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEC71698-DE51-4E88-9F48-C46952CA9EBC}
+	EndGlobalSection
+EndGlobal

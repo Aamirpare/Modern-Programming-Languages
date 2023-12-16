@@ -1,0 +1,84 @@
+﻿@model List<OnlineStore.Models.Student>
+@{
+    ViewBag.Title = "Home Page";
+}
+<main>
+    <div class="container">
+        @if (Model == null)
+        {
+            <h2 class="text-danger">No products available</h2>
+        }
+
+        @if (Model != null)
+        {
+            <a href="/student/create" class="btn btn-primary mb-2">
+               <i class="fa fa-plus-circle"></i> Create New Student</a>
+            <table class="table table-bordered table-stripped">
+                <thead>
+                    <tr class="thead-dark">
+                        <th class="text-center">Student</th>
+                        <th>Name</th>
+                        <th>Email</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+
+                    @foreach (var s in Model)
+                    {
+                        <tr>
+                            <td class="text-center">
+                                <img class="rounded-circle" src="~/Content/Images/student-@(s.StudentId).jpg" 
+                                     alt="@s.FullName" title="@(s.StudentId + "-" + s.FullName)" />
+                            </td>
+                            <td>@s.FullName</td>
+                            <td>@s.Email</td>
+                            <td>
+                                <a href="/Student/Edit/@s.StudentId" class="btn btn-primary">
+                                    <i class="fa fa-edit"></i> Edit </a>
+                                <a href="/Student/Delete/@s.StudentId"class="btn btn-danger">
+                                    <i class="fa fa-trash"></i> Remove </a>
+                            </td>
+                        </tr>
+                    }
+
+                </tbody>
+            </table>
+        }
+
+    </div>
+
+
+    @*<div class="container">
+            @if(Model == null)
+            {
+                <h2 class="text-danger">No products available</h2>
+            }
+
+            @if (Model != null)
+            {
+                <table class="table table-bordered table-stripped">
+                    <thead>
+                        <tr>
+                            <th>Id</th>
+                            <th>Name</th>
+                            <th>Description</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                        @foreach (var p in Model)
+                        {
+                            <tr>
+                                <td>@p.Id</td>
+                                <td>@p.Name</td>
+                                <td>@p.Description</td>
+                            </tr>
+                        }
+
+                    </tbody>
+                </table>
+            }
+
+        </div>*@
+</main>

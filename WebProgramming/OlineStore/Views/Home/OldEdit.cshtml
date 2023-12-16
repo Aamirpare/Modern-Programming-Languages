@@ -1,0 +1,15 @@
+@model OnlineStore.Models.Student
+
+<h2>Welcome to Edit</h2>
+
+<form action="/Home/Edit" method="post">
+
+    <input type="hidden" name="StudentId" value="@Model.StudentId" />
+
+    <input name="FullName" value="@Model.FullName" />
+    
+    <input name="Email" value="@Model.Email" />
+
+    <input type="submit" name="name" value="Save" />
+
+</form>
