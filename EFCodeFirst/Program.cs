@@ -2,7 +2,9 @@
 using EFCodeFirst.Repository;
 using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
+using System.Reflection;
 
 namespace EFCodeFirst
 {
@@ -97,6 +99,7 @@ namespace EFCodeFirst
     }
     public class Program
     {
+        delegate void Printer();
         static void Main(string[] args)
         {
             var dbManager = new SalesCrudManager();

@@ -94,6 +94,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include=".gitignore" />
     <Content Include="SalesModel.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <DependentUpon>SalesModel.edmx</DependentUpon>

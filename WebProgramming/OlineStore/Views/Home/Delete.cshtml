@@ -13,10 +13,13 @@
     @Html.HiddenFor(model => model.Email)
 
     <div class="form-group">
-        <img class="rounded" src="~/Content/Images/student-@(Model.StudentId).jpg"
-             alt="@Model.FullName" title="@(Model.StudentId + "-" + Model.FullName)"
-             width="100" height="80" />
+        <img class="rounded profile-pic" src="~/Content/Images/student-@(Model.StudentId).jpg"
+             alt="@Model.FullName" title="@(Model.StudentId + "-" + Model.FullName)" />
+        <div>
+            @Html.DisplayFor(m => m.FullName)
+        </div>
     </div>
+
 
     <h2 class="text-danger">Would you like to delete this record?</h2>
     @*<a class="btn btn-primary" href="/Home/Index">Cancel</a>

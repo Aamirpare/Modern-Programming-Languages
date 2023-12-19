@@ -5,10 +5,3 @@ C:\BIFall2023\ConsoleApplications\SecondConsoleApp\obj\Debug\SecondConsoleApp.cs
 C:\BIFall2023\ConsoleApplications\SecondConsoleApp\obj\Debug\SecondConsoleApp.csproj.CoreCompileInputs.cache
 C:\BIFall2023\ConsoleApplications\SecondConsoleApp\obj\Debug\SecondConsoleApp.exe
 C:\BIFall2023\ConsoleApplications\SecondConsoleApp\obj\Debug\SecondConsoleApp.pdb
-C:\Users\Aamir\source\repos\ModerProgrammingLanguagesFall2023\ConsoleApplications\SecondConsoleApp\bin\Debug\SecondConsoleApp.exe.config
-C:\Users\Aamir\source\repos\ModerProgrammingLanguagesFall2023\ConsoleApplications\SecondConsoleApp\bin\Debug\SecondConsoleApp.exe
-C:\Users\Aamir\source\repos\ModerProgrammingLanguagesFall2023\ConsoleApplications\SecondConsoleApp\bin\Debug\SecondConsoleApp.pdb
-C:\Users\Aamir\source\repos\ModerProgrammingLanguagesFall2023\ConsoleApplications\SecondConsoleApp\obj\Debug\SecondConsoleApp.csproj.AssemblyReference.cache
-C:\Users\Aamir\source\repos\ModerProgrammingLanguagesFall2023\ConsoleApplications\SecondConsoleApp\obj\Debug\SecondConsoleApp.csproj.CoreCompileInputs.cache
-C:\Users\Aamir\source\repos\ModerProgrammingLanguagesFall2023\ConsoleApplications\SecondConsoleApp\obj\Debug\SecondConsoleApp.exe
-C:\Users\Aamir\source\repos\ModerProgrammingLanguagesFall2023\ConsoleApplications\SecondConsoleApp\obj\Debug\SecondConsoleApp.pdb

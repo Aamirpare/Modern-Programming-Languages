@@ -58,6 +58,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include=".gitignore" />
     <Content Include="Events\readme.txt" />
     <Content Include="Generics\assingment.txt" />
     <Content Include="LabTasks\Task1-20102023.txt" />

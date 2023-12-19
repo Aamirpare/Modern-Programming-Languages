@@ -5,10 +5,3 @@ C:\BIFall2023\CSharpArraysDemo\obj\Debug\CSharpArraysDemo.csproj.AssemblyReferen
 C:\BIFall2023\CSharpArraysDemo\obj\Debug\CSharpArraysDemo.csproj.CoreCompileInputs.cache
 C:\BIFall2023\CSharpArraysDemo\obj\Debug\CSharpArraysDemo.exe
 C:\BIFall2023\CSharpArraysDemo\obj\Debug\CSharpArraysDemo.pdb
-C:\Users\Aamir\source\repos\ModerProgrammingLanguagesFall2023\CSharpArraysDemo\obj\Debug\CSharpArraysDemo.csproj.AssemblyReference.cache
-C:\Users\Aamir\source\repos\ModerProgrammingLanguagesFall2023\CSharpArraysDemo\obj\Debug\CSharpArraysDemo.csproj.CoreCompileInputs.cache
-C:\Users\Aamir\source\repos\ModerProgrammingLanguagesFall2023\CSharpArraysDemo\obj\Debug\CSharpArraysDemo.exe
-C:\Users\Aamir\source\repos\ModerProgrammingLanguagesFall2023\CSharpArraysDemo\obj\Debug\CSharpArraysDemo.pdb
-C:\Users\Aamir\source\repos\ModerProgrammingLanguagesFall2023\CSharpArraysDemo\bin\Debug\CSharpArraysDemo.exe.config
-C:\Users\Aamir\source\repos\ModerProgrammingLanguagesFall2023\CSharpArraysDemo\bin\Debug\CSharpArraysDemo.exe
-C:\Users\Aamir\source\repos\ModerProgrammingLanguagesFall2023\CSharpArraysDemo\bin\Debug\CSharpArraysDemo.pdb
